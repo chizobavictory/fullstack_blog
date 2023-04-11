@@ -1,0 +1,1 @@
+This is a Fullstack Blog application both for the frontend and backend. The frontend is built with React and the backend is built with Node.js and Express.
